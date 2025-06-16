@@ -21,7 +21,7 @@
             "response": []
         },
         {
-            "name": "Get Restaurant By ID",
+            "name": "Get Restaurant By ID"
             "request": {
                 "method": "GET",
                 "header": [],
